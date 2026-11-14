@@ -20,3 +20,6 @@ A 112-page pre-IFC engineering package and independent red-team audit for a 1 MW
 
 ## Feedback Welcome
 If you are a mechanical, electrical, or controls engineer, I want your feedback. Where does this model break in the real world? What missing analysis (water hammer, acoustics, harmonics, fire interaction) would you require before issuing this for construction?
+
+## LinkedIn
+[Post | LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7527447276982730752/)
